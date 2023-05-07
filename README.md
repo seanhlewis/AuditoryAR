@@ -1,6 +1,6 @@
 <div align="center">
 
-![auditoryar logo](https://user-images.githubusercontent.com/96705270/236707653-9df7bcbc-03db-4cb8-a5bf-3f94dae0e912.png)
+<img src="https://user-images.githubusercontent.com/96705270/236707653-9df7bcbc-03db-4cb8-a5bf-3f94dae0e912.png" width="400" />
 
 # A geospatial speech inference and display system
 
