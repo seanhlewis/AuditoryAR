@@ -17,7 +17,7 @@
 
 </div>
 
-[AuditoryAR](https://auditoryar.com) is an AR application developed as a visual aid for the hard-of-hearing. It analyzes real-time speech and displays it near the point of origin in an AR environment. AuditoryAR is a real-time visual aid for those who are hard-of-hearing.
+[AuditoryAR](https://auditoryar.com) is an AR application developed as a visual aid for the hard-of-hearing. It analyzes real-time speech and displays it near the point of origin in an AR environment. Our goal is to become a real-time visual aid for those who are hard-of-hearing.
 
 <div align="center">
 
