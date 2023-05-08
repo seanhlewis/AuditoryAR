@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/96705270/236707653-9df7bcbc-03db-4cb8-a5bf-3f94dae0e912.png" width="400" />
+<img src="https://user-images.githubusercontent.com/96705270/236709376-d832185d-7767-442a-b47a-08d52b7616d2.png" width="400" />
 
 # A geospatial speech inference and display system
 
